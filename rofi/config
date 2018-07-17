@@ -1,0 +1,24 @@
+! Enabled modi
+rofi.modi:                           	window,run,ssh
+! Window opacity
+rofi.opacity:                        	85
+! Window width
+rofi.width:                          	100
+! Number of lines
+rofi.lines:                          	10
+! Number of columns
+rofi.columns:                        	1
+! Font to use
+rofi.font:                           	Capsuula Bold 16
+! Color scheme for normal row
+rofi.color-normal:                   	#0e1111,#bbbbbb,#0e1111,#0e1111,#ffffff
+! Color scheme for urgent row
+rofi.color-urgent:                   	#fdf6e3,#dc322f,#eee8d5,#dc322f,#fdf6e3
+! Color scheme for active row
+rofi.color-active:                   	#ff0000,#ff0000,#ff0000,#ff0000,#ff0000
+! Color scheme window
+rofi.color-window:                   	#0e1111,#0e1111
+! Border width
+rofi.bw:                             	10
+! Padding
+rofi.padding				800
